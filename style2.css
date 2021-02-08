@@ -6,7 +6,8 @@ p {color: #F6FF00; }
         
         body { background-image: url("jnblanchette.github.io/mybackground.jpg");
                 background-size: cover; 
-                background-repeat: no-repeat; }
+                background-repeat: no-repeat;
+                opacity: .7; }
 
 
         #nav-table{ width: 1024px;}
