@@ -2,8 +2,8 @@
         
         h1 {color: rgb(0, 232, 15); }  
         
-        body { background-image: url("jnblanchette.github.io/mybackground.jpg");}
-                { background-size: cover; }
+        body { background-image: url("jnblanchette.github.io/mybackground.jpg");
+                background-size: cover; }
               
 
         #nav-table{ width: 1024px;}
