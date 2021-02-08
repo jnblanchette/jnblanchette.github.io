@@ -1,11 +1,11 @@
         <style>
         
-        h1 {color: rgb(0, 232, 15); }  
+        h1 {color: #FFD072 ; }  
         
         body { background-image: url("jnblanchette.github.io/mybackground.jpg");
                 background-size: cover; 
                 background-repeat: no-repeat; }
-        p {color: #FFD072: }
+        p {font-color: #FFD072: }
               
 
         #nav-table{ width: 1024px;}
