@@ -1,13 +1,13 @@
         <style>
  h1 {color: #FFD072; }
-p {color: #F6FF00; } 
+p {color: #09FC00 ; } 
  h1 {color: #FFD072; } 
               
         
         body { background-image: url("jnblanchette.github.io/mybackground.jpg");
                 background-size: cover; 
                 background-repeat: no-repeat;
-                opacity: .7; }
+                }
 
 
         #nav-table{ width: 1024px;}
